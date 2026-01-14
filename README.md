@@ -141,4 +141,4 @@ This project is open source and available for educational purposes.
 
 ---
 
-⭐ Star this repository if you find it helpful!
+Star this repository if you find it helpful!
